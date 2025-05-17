@@ -244,7 +244,7 @@ return (
            <div>
               <div className=' flex justify-center gap-2'> Developed by 
                 <span className='my-1 animate-bounce'> <FaLaptopCode /> </span>
-                <span className='font-semibold text-gray-100'>Code Sakthi</span></div>
+                <span className='font-semibold text-gray-100'>Code Saktrix</span></div>
             </div>
 
          </div>
